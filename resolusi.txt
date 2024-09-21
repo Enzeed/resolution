@@ -2,3 +2,4 @@ Resolusi Kedepan
 -Menguasai Machine Learning
 -Menjadi Data Scientist
 -Menjadi Data Analys
+-Memahami Deep Learning
